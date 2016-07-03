@@ -8,8 +8,8 @@ Also force permanent NumLock activation and bind NumLock key to calculator (open
 
 **Universal media keys**
 
-![Numlock rapid Calc function][http://www.samuelbernou.fr/imgs/git/AHKscript_UniversalMediaHotkeys.png]
+![Numlock rapid Calc function](http://www.samuelbernou.fr/imgs/git/AHKscript_UniversalMediaHotkeys.png)
 
 **Calculator key**
 
-![Numlock rapid Calc function][http://www.samuelbernou.fr/imgs/git/AHKscript_calc_control_numlock.png]
+![Numlock rapid Calc function](http://www.samuelbernou.fr/imgs/git/AHKscript_calc_control_numlock.png)
